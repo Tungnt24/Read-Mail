@@ -1,0 +1,21 @@
+{
+	"RABBITMQ": "",
+	"IMAP_HOST": "",
+    "IMAP_PORT": 143,
+    "IMAP_SSL": false,
+	"IMAP_USERS": [
+		{
+			"email": "",
+			"password": ""
+		},
+		{
+			"email": "",
+			"password": ""
+		},
+		{
+			"email": "",
+			"password": ""
+		}
+	]
+
+}
